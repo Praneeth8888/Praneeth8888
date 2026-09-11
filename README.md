@@ -2,7 +2,7 @@
 
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?user=Praneeth8888&cache_bust=1&label=Profile%20views&color=0e75b6&style=flat" alt="praneeth8888" />
+  <img src="https://komarev.com/ghpvc/?user=Praneeth8888&label=Profile%20views&color=0e75b6&style=flat" alt="praneeth8888" />
 </p>
 
 
@@ -20,6 +20,10 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+
+  <p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 </p>
 
 
