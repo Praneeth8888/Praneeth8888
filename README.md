@@ -34,16 +34,11 @@
 
 ## 📊 GitHub Analytics
 
-<table align="center">
-<tr>
-<td width="50%">
-<img src="https://github-stats-extended.vercel.app/api?username=Praneeth8888&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-</td>
-<td width="50%">
+<div align="center">
+
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Praneeth8888&layout=compact&theme=radical&hide_border=true" />
-</td>
-</tr>
-</table>
+
+</div>
 
 <div align="center">
 
