@@ -1,34 +1,94 @@
-<h1 align="center">Hi 👋</h1>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20👋&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20GitHub&descAlignY=55&descSize=20"/>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?user=Praneeth8888&label=Profile%20views&color=0e75b6&style=flat" alt="praneeth8888" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Java+%26+Spring+Boot+Developer;C+%2F+C%2B%2B+Enthusiast;Crafting+clean%2C+scalable+code;Always+learning%2C+always+building" alt="Typing SVG"/>
 
+<img src="https://komarev.com/ghpvc/?username=Praneeth8888&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile views"/>
 
+</div>
 
+<br/>
 
+<div align="center">
 
+> Code is like humor — when you have to explain it, it's bad.
 
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="springboot" width="40" height="40"/></a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+<br/>
 
-  <p align="center">
-    <a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
-</p>
+## 🛠️ Tech Stack
 
+<div align="center">
 
+**Languages**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praneeth8888&" alt="praneeth8888" /></p>
+<img src="https://skillicons.dev/icons?i=java,c,cpp,js&theme=dark" />
+
+<br/>
+
+**Frameworks & Web**
+
+<img src="https://skillicons.dev/icons?i=spring,html,css&theme=dark" />
+
+</div>
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<table align="center">
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=Praneeth8888&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+</td>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praneeth8888&layout=compact&theme=radical&hide_border=true" />
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Praneeth8888&theme=radical&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Praneeth8888&theme=react-dark&hide_border=true" alt="Activity Graph" width="95%"/>
+
+</div>
+
+<br/>
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Praneeth8888&theme=radical&no-frame=true&row=1&column=7" />
+
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Praneeth8888/Praneeth8888/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Praneeth8888/Praneeth8888/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Praneeth8888/Praneeth8888/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+</div>
