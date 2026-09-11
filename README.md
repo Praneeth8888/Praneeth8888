@@ -61,13 +61,7 @@
 
 ## 🏆 Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Praneeth8888&theme=radical&no-frame=true&row=1&column=7" />
-
-</div>
-
-<br/>
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Praneeth8888&theme=radical&no-frame=true&row=1&column=7" /> </div> <br/>
 
 ## 🐍 Contribution Snake
 
