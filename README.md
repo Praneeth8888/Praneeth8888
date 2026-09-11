@@ -51,22 +51,6 @@
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Praneeth8888&theme=react-dark&hide_border=true" alt="Activity Graph" width="95%"/>
-
-</div>
-
-<br/>
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-trophies.vercel.app/?username=Praneeth8888&theme=radical&no-frame=true&row=1&column=7" />
-
-</div>
-
 <br/>
 
 ## 🐍 Contribution Snake
