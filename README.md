@@ -2,7 +2,7 @@
 
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=praneeth8888&label=Profile%20views&color=0e75b6&style=flat" alt="praneeth8888" />
+  <img src="https://komarev.com/ghpvc/?user=Praneeth8888&cache_bust=1&label=Profile%20views&color=0e75b6&style=flat" alt="praneeth8888" />
 </p>
 
 
