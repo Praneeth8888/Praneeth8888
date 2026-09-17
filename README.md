@@ -40,11 +40,6 @@
 
 </div>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Praneeth8888&theme=radical&hide_border=true" alt="GitHub Streak"/>
-
-</div>
 
 <br/>
 
